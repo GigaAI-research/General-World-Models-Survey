@@ -93,6 +93,7 @@ In our report, we present a holistic examination of recent advancements in world
 | [StoryGAN](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_StoryGAN_A_Sequential_Conditional_GAN_for_Story_Visualization_CVPR_2019_paper.pdf) | T2V Generation | [![Star](https://img.shields.io/github/stars/yitong91/StoryGAN.svg?style=social&label=Star)](https://github.com/yitong91/StoryGAN)|
 | [TiVGAN](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9171240) | T2V Generation | -|
 | [GODIVA](https://arxiv.org/pdf/2104.14806) | T2V Generation | [![Star](https://img.shields.io/github/stars/breadbread1984/GODIVA.svg?style=social&label=Star)](https://github.com/breadbread1984/GODIVA)|
+| [VideoGPT](https://arxiv.org/abs/2104.10157) | T2V Generation | [![Star](https://img.shields.io/github/stars/wilson1yan/VideoGPT.svg?style=social&label=Star)](https://github.com/wilson1yan/VideoGPT)|
 
 ## Papers and Toolboxes for Autonomous Driving World Models 
 ![Drive](./asset/Drive.png "autonomous driving world models")
