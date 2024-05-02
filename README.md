@@ -94,7 +94,28 @@ In our report, we present a holistic examination of recent advancements in world
 
 | Methods | Task | Github|
 |:-----:|:-----:|:-----:|
-| [Sora](https://openai.com/sora)  | T2V Generation & Editing | -|
+| [Iso-Dream](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9316769afaaeeaad42a9e3633b14e801-Abstract-Conference.html)  | End-to-end Driving|-|
+| [MILE](https://proceedings.neurips.cc/paper_files/paper/2022/hash/827cb489449ea216e4a257c47e407d18-Abstract-Conference.html)  | End-to-end Driving|[Code](https://github.com/wayveai/mile)|
+| [SEM2](https://arxiv.org/abs/2210.04017)  | End-to-end Driving|-|
+| [TrafficBots](https://ieeexplore.ieee.org/abstract/document/10161243)  | End-to-end Driving|-|
+| [Think2Drive](https://arxiv.org/abs/2402.16720)  | End-to-end Driving|-|
+| [Gaia-1](https://arxiv.org/abs/2309.17080)  | Neural Driving Simulator (2D) |-|
+| [Tesla](https://www.youtube.com/watch?v=6x-Xb_uT7ts) | Neural Driving Simulator|-|
+| [DriveDreamer](https://drivedreamer.github.io/)  | Neural Driving Simulator (2D) | [Code](https://github.com/JeffWang987/DriveDreamer)|
+| [ADriver-I](https://arxiv.org/abs/2309.17080)  | Neural Driving Simulator (2D) | -|
+| [Panacea](https://panacea-ad.github.io/)  | Neural Driving Simulator (2D) | [Code](https://github.com/wenyuqing/panacea)|
+| [Drive-WM](https://drive-wm.github.io/)  | Neural Driving Simulator (2D) & End-to-end Driving| [Code](https://github.com/BraveGroup/Drive-WM)|
+| [WoVoGen](https://arxiv.org/abs/2312.02934)  | Neural Driving Simulator (2D) | -|
+| [DriveDreamer-2](https://drivedreamer2.github.io/)  | Neural Driving Simulator (2D) | [Code](https://github.com/f1yfisher/DriveDreamer2)|
+| [GenAD](https://arxiv.org/abs/2403.09630)  | Neural Driving Simulator (2D) | [Code](https://github.com/OpenDriveLab/DriveAGI?tab=readme-ov-file)|
+| [SubjectDrive](https://subjectdrive.github.io/)  | Neural Driving Simulator (2D) | -|
+| [Copilot4D](https://arxiv.org/abs/2311.01017)  | Neural Driving Simulator (3D) | -|
+| [OccWorld](https://arxiv.org/abs/2311.16038)  | Neural Driving Simulator (2D) | [Code](https://github.com/wzzheng/OccWorld)|
+| [MUVO](https://arxiv.org/abs/2311.11762)  | Neural Driving Simulator (3D) | -|
+| [LidarDM](https://www.zyrianov.org/lidardm/)  | Neural Driving Simulator (3D) | -|
+| [UniWorld](https://arxiv.org/abs/2308.07234)  | Neural Driving Simulator (3D) & 4D Pre-training| -|
+| [ViDAR](https://arxiv.org/abs/2312.17655)  | Neural Driving Simulator (3D) & 4D Pre-training| [Code](https://github.com/OpenDriveLab/ViDAR)|
+| [DriveWorld](XXX)  | Neural Driving Simulator (3D) & 4D Pre-training|-|
 
 
 
@@ -103,10 +124,7 @@ In our report, we present a holistic examination of recent advancements in world
 
 | Methods | Task | Github|
 |:-----:|:-----:|:-----:|
-| [Gaia-1](https://arxiv.org/abs/2309.17080)  | Neural Driving Simulator (2D) |[Blog](https://wayve.ai/thinking/scaling-gaia-1/)|
-| [Tesla] | Neural Driving Simulator| [Video](https://www.youtube.com/watch?v=6x-Xb_uT7ts)|
-| [DriveDreamer](https://drivedreamer.github.io/)  | Neural Driving Simulator (2D) | [Code](https://github.com/JeffWang987/DriveDreamer)|
-| [ADriver-I](https://arxiv.org/abs/2309.17080)  | Neural Driving Simulator (2D) | -|
+| [Sora](https://openai.com/sora)  | T2V Generation & Editing | -|
 
 
 
