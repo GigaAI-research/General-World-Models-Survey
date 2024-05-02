@@ -88,8 +88,9 @@ In our report, we present a holistic examination of recent advancements in world
 | [Open-Sora](https://github.com/hpcaitech/Open-Sora/blob/main/docs/zh_CN/README.md)  | T2V Generation | [![Star](https://img.shields.io/github/stars/hpcaitech/Open-Sora.svg?style=social&label=Star)](https://github.com/hpcaitech/Open-Sora)|
 | [Sora](https://openai.com/sora)  | T2V Generation & Editing | -|
 | [IRC-GAN](https://www.ijcai.org/Proceedings/2019/0307.pdf) | T2V Generation | -|
-| [TGANs-C](https://arxiv.org/pdf/1804.08264)) | T2V Generation | -|
-
+| [TGANs-C](https://arxiv.org/pdf/1804.08264) | T2V Generation | -|
+| [TFGANs](https://www.ijcai.org/Proceedings/2019/0276.pdf) | T2V Generation | -|
+| [StoryGAN](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_StoryGAN_A_Sequential_Conditional_GAN_for_Story_Visualization_CVPR_2019_paper.pdf) | T2V Generation | ![Star](https://img.shields.io/github/stars/yitong91/StoryGAN.svg?style=social&label=Star)](https://github.com/yitong91/StoryGAN)|
 
 
 ## Papers and Toolboxes for Autonomous Driving World Models 
