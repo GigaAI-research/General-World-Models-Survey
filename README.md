@@ -103,6 +103,7 @@ In our report, we present a holistic examination of recent advancements in world
 | [SVD](https://arxiv.org/abs/2311.15127) | T2V Generation | [![Star](https://img.shields.io/github/stars/Stability-AI/generative-models.svg?style=social&label=Star)](https://github.com/Stability-AI/generative-models)|
 | [WorldDreamer](https://arxiv.org/abs/2401.09985) | T2V Generation | [![Star](https://img.shields.io/github/stars/JeffWang987/WorldDreamer.svg?style=social&label=Star)](https://github.com/JeffWang987/WorldDreamer)|
 | [Latte](https://arxiv.org/abs/2401.09985) | T2V Generation | [![Star](https://img.shields.io/github/stars/Vchitect/Latte.svg?style=social&label=Star)](https://github.com/Vchitect/Latte)|
+| [StreamingT2V](https://arxiv.org/abs/2403.14773) | T2V Generation | [![Star](https://img.shields.io/github/stars/Picsart-AI-Research/StreamingT2V.svg?style=social&label=Star)](https://github.com/Picsart-AI-Research/StreamingT2V)|
 
 
 ## Papers and Toolboxes for Autonomous Driving World Models 
