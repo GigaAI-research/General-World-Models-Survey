@@ -100,6 +100,8 @@ In our report, we present a holistic examination of recent advancements in world
 | [MAGViT](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_MAGVIT_Masked_Generative_Video_Transformer_CVPR_2023_paper.pdf) | C2V Generation | [![Star](https://img.shields.io/github/stars/google-research/magvit.svg?style=social&label=Star)](https://github.com/google-research/magvit)|
 | [MAGViT-V2](https://arxiv.org/abs/2310.05737) | C2V Generation | [![Star](https://img.shields.io/github/stars/lucidrains/magvit2-pytorch.svg?style=social&label=Star)](https://github.com/lucidrains/magvit2-pytorch)|
 | [VideoPoet](https://arxiv.org/abs/2312.14125) | T2V Generation | -|
+| [SVD](https://arxiv.org/abs/2311.15127) | T2V Generation | [![Star](https://img.shields.io/github/stars/Stability-AI/generative-models.svg?style=social&label=Star)](https://github.com/Stability-AI/generative-models)|
+| [WorldDreamer](https://arxiv.org/abs/2401.09985) | T2V Generation | [![Star](https://img.shields.io/github/stars/JeffWang987/WorldDreamer.svg?style=social&label=Star)](https://github.com/JeffWang987/WorldDreamer)|
 
 
 ## Papers and Toolboxes for Autonomous Driving World Models 
