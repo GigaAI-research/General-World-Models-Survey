@@ -97,6 +97,8 @@ In our report, we present a holistic examination of recent advancements in world
 | [StoryDALL-E](https://link.springer.com/chapter/10.1007/978-3-031-19836-6_5) | C2V Generation | -|
 | [CogVideo](https://arxiv.org/pdf/2205.15868) | T2V Generation | [![Star](https://img.shields.io/github/stars/THUDM/CogVideo.svg?style=social&label=Star)](https://github.com/THUDM/CogVideo)|
 | [Imagen Video](https://arxiv.org/pdf/2210.02303) | T2V Generation | -|
+| [MAGViT](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_MAGVIT_Masked_Generative_Video_Transformer_CVPR_2023_paper.pdf) | C2V Generation | [![Star](https://img.shields.io/github/stars/google-research/magvit.svg?style=social&label=Star)](https://github.com/google-research/magvit)|
+| [MAGViT-V2](https://arxiv.org/abs/2310.05737) | C2V Generation | [![Star](https://img.shields.io/github/stars/lucidrains/magvit2-pytorch.svg?style=social&label=Star)](https://github.com/lucidrains/magvit2-pytorch)|
 
 
 ## Papers and Toolboxes for Autonomous Driving World Models 
