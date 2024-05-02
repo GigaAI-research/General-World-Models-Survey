@@ -99,10 +99,11 @@ In our report, we present a holistic examination of recent advancements in world
 | [SEM2](https://arxiv.org/abs/2210.04017)  | End-to-end Driving|-|
 | [TrafficBots](https://ieeexplore.ieee.org/abstract/document/10161243)  | End-to-end Driving|-|
 | [Think2Drive](https://arxiv.org/abs/2402.16720)  | End-to-end Driving|-|
-| [Gaia-1](https://arxiv.org/abs/2309.17080)  | Neural Driving Simulator (2D) |-|
+| [GAIA-1](https://arxiv.org/abs/2309.17080)  | Neural Driving Simulator (2D) |-|
 | [Tesla](https://www.youtube.com/watch?v=6x-Xb_uT7ts) | Neural Driving Simulator|-|
 | [DriveDreamer](https://drivedreamer.github.io/)  | Neural Driving Simulator (2D) | [Code](https://github.com/JeffWang987/DriveDreamer)|
 | [ADriver-I](https://arxiv.org/abs/2309.17080)  | Neural Driving Simulator (2D) | -|
+| [DrivingDiffusion](https://arxiv.org/abs/2310.07771)  | Neural Driving Simulator (2D) |-|
 | [Panacea](https://panacea-ad.github.io/)  | Neural Driving Simulator (2D) | [Code](https://github.com/wenyuqing/panacea)|
 | [Drive-WM](https://drive-wm.github.io/)  | Neural Driving Simulator (2D) & End-to-end Driving| [Code](https://github.com/BraveGroup/Drive-WM)|
 | [WoVoGen](https://arxiv.org/abs/2312.02934)  | Neural Driving Simulator (2D) | -|
