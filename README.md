@@ -95,6 +95,8 @@ In our report, we present a holistic examination of recent advancements in world
 | [GODIVA](https://arxiv.org/pdf/2104.14806) | T2V Generation | [![Star](https://img.shields.io/github/stars/breadbread1984/GODIVA.svg?style=social&label=Star)](https://github.com/breadbread1984/GODIVA)|
 | [VideoGPT](https://arxiv.org/abs/2104.10157) | C2V Generation | [![Star](https://img.shields.io/github/stars/wilson1yan/VideoGPT.svg?style=social&label=Star)](https://github.com/wilson1yan/VideoGPT)|
 | [StoryDALL-E](https://link.springer.com/chapter/10.1007/978-3-031-19836-6_5) | C2V Generation | -|
+| [CogVideo](https://arxiv.org/pdf/2205.15868) | T2V Generation | [![Star](https://img.shields.io/github/stars/THUDM/CogVideo.svg?style=social&label=Star)](https://github.com/THUDM/CogVideo)|
+| [Imagen Video](https://arxiv.org/pdf/2210.02303) | T2V Generation | -|
 
 
 ## Papers and Toolboxes for Autonomous Driving World Models 
