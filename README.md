@@ -87,7 +87,9 @@ In our report, we present a holistic examination of recent advancements in world
 | [Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan/blob/main/docs/Report-v1.0.0.md)  | T2V Generation | [![Star](https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/Open-Sora-Plan)|
 | [Open-Sora](https://github.com/hpcaitech/Open-Sora/blob/main/docs/zh_CN/README.md)  | T2V Generation | [![Star](https://img.shields.io/github/stars/hpcaitech/Open-Sora.svg?style=social&label=Star)](https://github.com/hpcaitech/Open-Sora)|
 | [Sora](https://openai.com/sora)  | T2V Generation & Editing | -|
-| [IRC-GAN]([https://openai.com/sora](https://www.ijcai.org/Proceedings/2019/0307.pdf))  | T2V Generation | -|
+| [IRC-GAN](https://www.ijcai.org/Proceedings/2019/0307.pdf) | T2V Generation | -|
+| [TGANs-C](https://arxiv.org/pdf/1804.08264)) | T2V Generation | -|
+
 
 
 ## Papers and Toolboxes for Autonomous Driving World Models 
