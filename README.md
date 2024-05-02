@@ -112,27 +112,27 @@ In our report, we present a holistic examination of recent advancements in world
 | Methods | Task | Github|
 |:-----:|:-----:|:-----:|
 | [Iso-Dream](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9316769afaaeeaad42a9e3633b14e801-Abstract-Conference.html)  | End-to-end Driving|-|
-| [MILE](https://proceedings.neurips.cc/paper_files/paper/2022/hash/827cb489449ea216e4a257c47e407d18-Abstract-Conference.html)  | End-to-end Driving|[Code](https://github.com/wayveai/mile)|
+| [MILE](https://proceedings.neurips.cc/paper_files/paper/2022/hash/827cb489449ea216e4a257c47e407d18-Abstract-Conference.html)  | End-to-end Driving|[![Star](https://img.shields.io/github/stars/wayveai/mile.svg?style=social&label=Star)](https://github.com/wayveai/mile)|
 | [SEM2](https://arxiv.org/abs/2210.04017)  | End-to-end Driving|-|
 | [TrafficBots](https://ieeexplore.ieee.org/abstract/document/10161243)  | End-to-end Driving|-|
 | [Think2Drive](https://arxiv.org/abs/2402.16720)  | End-to-end Driving|-|
 | [GAIA-1](https://arxiv.org/abs/2309.17080)  | Neural Driving Simulator (2D) |-|
 | [Tesla](https://www.youtube.com/watch?v=6x-Xb_uT7ts) | Neural Driving Simulator|-|
-| [DriveDreamer](https://drivedreamer.github.io/)  | Neural Driving Simulator (2D) | [Code](https://github.com/JeffWang987/DriveDreamer)|
+| [DriveDreamer](https://drivedreamer.github.io/)  | Neural Driving Simulator (2D) | [![Star](https://img.shields.io/github/stars/JeffWang987/DriveDreamer.svg?style=social&label=Star)](https://github.com/JeffWang987/DriveDreamer)|
 | [ADriver-I](https://arxiv.org/abs/2309.17080)  | Neural Driving Simulator (2D) | -|
 | [DrivingDiffusion](https://arxiv.org/abs/2310.07771)  | Neural Driving Simulator (2D) |-|
-| [Panacea](https://panacea-ad.github.io/)  | Neural Driving Simulator (2D) | [Code](https://github.com/wenyuqing/panacea)|
-| [Drive-WM](https://drive-wm.github.io/)  | Neural Driving Simulator (2D) & End-to-end Driving| [Code](https://github.com/BraveGroup/Drive-WM)|
+| [Panacea](https://panacea-ad.github.io/)  | Neural Driving Simulator (2D) | [![Star](https://img.shields.io/github/stars/wenyuqing/panacea.svg?style=social&label=Star)](https://github.com/wenyuqing/panacea)|
+| [Drive-WM](https://drive-wm.github.io/)  | Neural Driving Simulator (2D) & End-to-end Driving| [![Star](https://img.shields.io/github/stars/BraveGroup/Drive-WM.svg?style=social&label=Star)](https://github.com/BraveGroup/Drive-WM)|
 | [WoVoGen](https://arxiv.org/abs/2312.02934)  | Neural Driving Simulator (2D) | -|
-| [DriveDreamer-2](https://drivedreamer2.github.io/)  | Neural Driving Simulator (2D) | [Code](https://github.com/f1yfisher/DriveDreamer2)|
-| [GenAD](https://arxiv.org/abs/2403.09630)  | Neural Driving Simulator (2D) | [Code](https://github.com/OpenDriveLab/DriveAGI?tab=readme-ov-file)|
+| [DriveDreamer-2](https://drivedreamer2.github.io/)  | Neural Driving Simulator (2D) | [![Star](https://img.shields.io/github/stars/f1yfisher/DriveDreamer2.svg?style=social&label=Star)](https://github.com/f1yfisher/DriveDreamer2)|
+| [GenAD](https://arxiv.org/abs/2403.09630)  | Neural Driving Simulator (2D) | [![Star](https://img.shields.io/github/stars/OpenDriveLab/DriveAGI?tab=readme-ov-file.svg?style=social&label=Star)](https://github.com/OpenDriveLab/DriveAGI?tab=readme-ov-file)|
 | [SubjectDrive](https://subjectdrive.github.io/)  | Neural Driving Simulator (2D) | -|
 | [Copilot4D](https://arxiv.org/abs/2311.01017)  | Neural Driving Simulator (3D) | -|
-| [OccWorld](https://arxiv.org/abs/2311.16038)  | Neural Driving Simulator (2D) | [Code](https://github.com/wzzheng/OccWorld)|
+| [OccWorld](https://arxiv.org/abs/2311.16038)  | Neural Driving Simulator (2D) | [![Star](https://img.shields.io/github/stars/wzzheng/OccWorld.svg?style=social&label=Star)](https://github.com/wzzheng/OccWorld)|
 | [MUVO](https://arxiv.org/abs/2311.11762)  | Neural Driving Simulator (3D) | -|
 | [LidarDM](https://www.zyrianov.org/lidardm/)  | Neural Driving Simulator (3D) | -|
 | [UniWorld](https://arxiv.org/abs/2308.07234)  | Neural Driving Simulator (3D) & 4D Pre-training| -|
-| [ViDAR](https://arxiv.org/abs/2312.17655)  | Neural Driving Simulator (3D) & 4D Pre-training| [Code](https://github.com/OpenDriveLab/ViDAR)|
+| [ViDAR](https://arxiv.org/abs/2312.17655)  | Neural Driving Simulator (3D) & 4D Pre-training| [![Star](https://img.shields.io/github/stars/OpenDriveLab/ViDAR.svg?style=social&label=Star)](https://github.com/OpenDriveLab/ViDAR)|
 | [DriveWorld](XXX)  | Neural Driving Simulator (3D) & 4D Pre-training|-|
 
 
