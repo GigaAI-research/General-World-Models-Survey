@@ -8,7 +8,7 @@
     <a href="https://scholar.google.com/citations?user=NmwjI0AAAAAJ&hl=en">Zheng Zhu*</a>, 
     <a href="https://scholar.google.com/citations?user=NmwjI0AAAAAJ&hl=en">Xiaofeng Wang*</a>,
     <a href="https://scholar.google.co.jp/citations?user=aocj89kAAAAJ&hl=es">Wangbo Zhao*</a>,
-    <a href="https://scholar.google.com/citations?user=pE9gTMQAAAAJ&hl=zh-CN">Min Chen*</a>,
+    <a href="https://scholar.google.com/citations?user=pE9gTMQAAAAJ&hl=zh-CN">Chen Min*</a>,
     <a href="">Nianchen Deng*</a>,
     <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=w9fTWKQAAAAJ">Min Dou*</a>,
     <a href="https://scholar.google.com/citations?user=35UcX9sAAAAJ&hl=en">Yuqi Wang*</a>,
@@ -103,7 +103,11 @@ In our report, we present a holistic examination of recent advancements in world
 
 | Methods | Task | Github|
 |:-----:|:-----:|:-----:|
-| [Sora](https://openai.com/sora)  | T2V Generation & Editing | -|
+| [Gaia-1](https://arxiv.org/abs/2309.17080)  | Neural Driving Simulator (2D) |[Blog](https://wayve.ai/thinking/scaling-gaia-1/)|
+| [Tesla] | Neural Driving Simulator| [Video](https://www.youtube.com/watch?v=6x-Xb_uT7ts)|
+| [DriveDreamer](https://drivedreamer.github.io/)  | Neural Driving Simulator (2D) | [Code](https://github.com/JeffWang987/DriveDreamer)|
+| [ADriver-I](https://arxiv.org/abs/2309.17080)  | Neural Driving Simulator (2D) | -|
+
 
 
 ## Contact
@@ -112,7 +116,7 @@ If you find our survey is useful in your research or applications, please consid
 ```
 @article{generalworldmodelsurvey,
   title={Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond},
-  author={Zheng Zhu and Xiaofeng Wang and Wangbo Zhao and Min Chen and Nianchen Deng and Min Dou and Yuqi Wang and Botian Shi and Kai Wang and Chi Zhang and Yang You and Zhaoxiang Zhang and Dawei Zhao and Liang Xiao and Jian Zhao and Jiwen Lu and Guan Huang}, 
+  author={Zheng Zhu and Xiaofeng Wang and Wangbo Zhao and Chen Min and Nianchen Deng and Min Dou and Yuqi Wang and Botian Shi and Kai Wang and Chi Zhang and Yang You and Zhaoxiang Zhang and Dawei Zhao and Liang Xiao and Jian Zhao and Jiwen Lu and Guan Huang}, 
   journal={arXiv preprint arXiv:TODO},
   year={2024}
 }
