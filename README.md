@@ -6,7 +6,7 @@
 <div style="text-align:center; font-size: 18px;">
     <p>
     <a href="https://scholar.google.com/citations?user=NmwjI0AAAAAJ&hl=en">Zheng Zhu*</a>, 
-    <a href="https://scholar.google.com/citations?user=NmwjI0AAAAAJ&hl=en">Xiaofeng Wang*</a>,
+    <a href="https://scholar.google.com.hk/citations?user=5IJ0Yg4AAAAJ&hl=zh-CN">Xiaofeng Wang*</a>,
     <a href="https://scholar.google.co.jp/citations?user=aocj89kAAAAJ&hl=es">Wangbo Zhao*</a>,
     <a href="https://scholar.google.com/citations?user=pE9gTMQAAAAJ&hl=zh-CN">Chen Min*</a>,
     <a href="">Nianchen Deng*</a>,
@@ -15,10 +15,10 @@
     <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=K0PpvLkAAAAJ">Botian Shi<sup>#</sup></a>,
     <a href="https://scholar.google.com/citations?user=i2II0XIAAAAJ&hl=en">Kai Wang<sup>#</sup</a>,
     <a href="https://scholar.google.com/citations?user=aTA2wL4AAAAJ&hl=en">Chi Zhang<sup>#</sup</a>,
-    <a href="">Yang You<sup>#</sup</a>,
+    <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=jF4dPZwAAAAJ">Yang You<sup>#</sup</a>,
     <a href="https://scholar.google.com/citations?user=qxWfV6cAAAAJ&hl=en">Zhaoxiang Zhang<sup>#</sup</a>,
     <a href="">Dawei Zhao<sup>#</sup</a>,
-    <a href="https://scholar.google.com/citations?user=hvxSnzoAAAAJ&hl=lt">Liang Xiao<sup>#</sup</a>,
+    <a href="https://scholar.google.com/citations?user=hvxSnzoAAAAJ&hl=zh-CN">Liang Xiao<sup>#</sup</a>,
     <a href="https://scholar.google.com.sg/citations?hl=en&user=zdhRJCkAAAAJ&view_op=list_works&gmla=AJsN-F4PURIx5GMQHVpprJJBjTsNC62YCHjxGsKOwVhrkZ1aJsLgBiuKPBbAgbdcE5_KNw3OnLQgOVSjlqmS6gc-6ti0M2K5o-klHgoOywFCbdaaGnpis130zvgoZFJkVfmoNKpo8Krp">Jian Zhao<sup>#</sup</a>,
     <a href="https://scholar.google.com/citations?user=TN8uDQoAAAAJ&hl=en">Jiwen Lu<sup>#</sup</a>,
     <a href="">Guan Huang<sup>#</sup</a>
