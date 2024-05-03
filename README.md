@@ -128,7 +128,7 @@ In our report, we present a holistic examination of recent advancements in world
 | [GenAD](https://arxiv.org/abs/2403.09630)  | Neural Driving Simulator (2D) | [![Star](https://img.shields.io/github/stars/OpenDriveLab/DriveAGI?tab=readme-ov-file.svg?style=social&label=Star)](https://github.com/OpenDriveLab/DriveAGI?tab=readme-ov-file)|
 | [SubjectDrive](https://subjectdrive.github.io/)  | Neural Driving Simulator (2D) | -|
 | [Copilot4D](https://arxiv.org/abs/2311.01017)  | Neural Driving Simulator (3D) | -|
-| [OccWorld](https://arxiv.org/abs/2311.16038)  | Neural Driving Simulator (2D) | [![Star](https://img.shields.io/github/stars/wzzheng/OccWorld.svg?style=social&label=Star)](https://github.com/wzzheng/OccWorld)|
+| [OccWorld](https://arxiv.org/abs/2311.16038)  | Neural Driving Simulator (3D) | [![Star](https://img.shields.io/github/stars/wzzheng/OccWorld.svg?style=social&label=Star)](https://github.com/wzzheng/OccWorld)|
 | [MUVO](https://arxiv.org/abs/2311.11762)  | Neural Driving Simulator (3D) | -|
 | [LidarDM](https://www.zyrianov.org/lidardm/)  | Neural Driving Simulator (3D) | -|
 | [UniWorld](https://arxiv.org/abs/2308.07234)  | Neural Driving Simulator (3D) & 4D Pre-training| -|
