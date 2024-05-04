@@ -142,8 +142,36 @@ In our report, we present a holistic examination of recent advancements in world
 
 | Methods | Task | Github|
 |:-----:|:-----:|:-----:|
-| [Sora](https://openai.com/sora)  | T2V Generation & Editing | -|
-
+| [PlaNet](https://planetrl.github.io/)  | Robotics | [![Star](https://img.shields.io/github/stars/google-research/planet.svg?style=social&label=Star)](https://github.com/google-research/planet) |
+| [World Models](https://worldmodels.github.io/)  | Game Agent | [![Star](https://img.shields.io/github/stars/hardmaru/WorldModelsExperiments.svg?style=social&label=Star)](https://github.com/hardmaru/WorldModelsExperiments) |
+| [RobotDreamPolicy](https://piergiaj.github.io/robot-dreaming-policy/)  | Robotics | - |
+| [Plan2Explore](https://ramanans1.github.io/plan2explore/)  | Robotics | [![Star](https://img.shields.io/github/stars/ramanans1/plan2explore.svg?style=social&label=Star)](https://github.com/ramanans1/plan2explore) |
+| [DreamerV1](https://danijar.com/project/dreamer/)  | Robotics | [![Star](https://img.shields.io/github/stars/danijar/dreamer.svg?style=social&label=Star)](https://github.com/danijar/dreamer) |
+| [SimPLe](https://github.com/dhruvramani/model-based-atari/)  | Game Agent | [![Star](https://img.shields.io/github/stars/dhruvramani/model-based-atari.svg?style=social&label=Star)](https://github.com/dhruvramani/model-based-atari) |
+| [Dreaming](https://arxiv.org/abs/2007.14535/)  | Robotics | - |
+| [DreamerV2](https://danijar.com/project/dreamerv2/)  | Game Agent | [![Star](https://img.shields.io/github/stars/danijar/dreamerv2.svg?style=social&label=Star)](https://github.com/danijar/dreamerv2) |
+| [LEXA](https://orybkin.github.io/lexa/)  | Robotics | [![Star](https://img.shields.io/github/stars/orybkin/lexa.svg?style=social&label=Star)](https://github.com/orybkin/lexa) |
+| [PathDreamer](https://google-research.github.io/pathdreamer/)  | Indoor Navigation | [![Star](https://img.shields.io/github/stars/google-research/pathdreamer.svg?style=social&label=Star)](https://github.com/google-research/pathdreamer) |
+| [DreamerPro](https://github.com/fdeng18/dreamer-pro/)  | Robotics | [![Star](https://img.shields.io/github/stars/fdeng18/dreamer-pro.svg?style=social&label=Star)](https://github.com/fdeng18/dreamer-pro) |
+| [DreamingV2](https://arxiv.org/abs/2203.00494/)  | Robotics | - |
+| [TransDreamer](https://github.com/changchencc/TransDreamer/)  | Game Agent & Robotics | [![Star](https://img.shields.io/github/stars/changchencc/TransDreamer.svg?style=social&label=Star)](https://github.com/changchencc/TransDreamer) |
+| [IRIS](https://github.com/eloialonso/iris/)  | Game Agent | [![Star](https://img.shields.io/github/stars/eloialonso/iris.svg?style=social&label=Star)](https://github.com/eloialonso/iris) |
+| [JEPA](https://openreview.net/forum?id=BZ5a1r-kVsf)  | Framework | - |
+| [Dr.G](https://github.com/JeongsooHa/DrG/)  | Robotics | [![Star](https://img.shields.io/github/stars/JeongsooHa/DrG.svg?style=social&label=Star)](https://github.com/JeongsooHa/DrG) |
+| [SWIM](https://human-world-model.github.io/)  | Robotics | - |
+| [DreamerV3](https://danijar.com/project/dreamerv3/)  | Game Agent & Robotics | [![Star](https://img.shields.io/github/stars/danijar/dreamerv3.svg?style=social&label=Star)](https://github.com/danijar/dreamerv3) |
+| [HarmonyDream](https://arxiv.org/abs/2310.00344/)  | Game Agent & Robotics | - |
+| [DayDreamer](https://danijar.com/project/daydreamer/)  | Robotics | [![Star](https://img.shields.io/github/stars/danijar/daydreamer.svg?style=social&label=Star)](https://github.com/danijar/daydreamer) |
+| [TWM](https://github.com/jrobine/twm/)  | Game Agent | [![Star](https://img.shields.io/github/stars/jrobine/twm.svg?style=social&label=Star)](https://github.com/jrobine/twm) |
+| [STORM](https://github.com/weipu-zhang/storm/)  | Game Agent | [![Star](https://img.shields.io/github/stars/weipu-zhang/storm.svg?style=social&label=Star)](https://github.com/weipu-zhang/storm) |
+| [MC-JEPA](https://arxiv.org/abs/2307.12698/)  | Optics Flow Prediction | - |
+| [A-JEPA](https://arxiv.org/abs/2311.15830/)  | Audio Classification | - |
+| [I_JEPA](https://github.com/facebookresearch/ijepa/)  | Image Semantics | [![Star](https://img.shields.io/github/stars/facebookresearch/ijepa.svg?style=social&label=Star)](https://github.com/facebookresearch/ijepa) |
+| [SafeDreamer](https://sites.google.com/view/safedreamer/)  | Robotics | [![Star](https://img.shields.io/github/stars/PKU-Alignment/SafeDreamer.svg?style=social&label=Star)](https://github.com/PKU-Alignment/SafeDreamer) |
+| [Genie](https://sites.google.com/view/genie-2024/home/)  | Generative Interactive Environment | - |
+| [V-JEPA](https://github.com/facebookresearch/jepa/)  | Video Prediction | [![Star](https://img.shields.io/github/stars/facebookresearch/jepa.svg?style=social&label=Star)](https://github.com/facebookresearch/jepa) |
+| [RoboDreamer](https://robovideo.github.io/)  | Robotics | - |
+| [UniSim](https://universal-simulator.github.io/unisim/)  | Generative Interactive Environment | - |
 
 
 ## Contact
