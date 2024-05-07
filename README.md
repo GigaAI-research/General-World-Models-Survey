@@ -1,6 +1,6 @@
 
 
-# [Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond](https://arxiv.org/abs/TODO) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/TODO) 
+# [Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond](https://arxiv.org/abs/2405.03520) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.03520) 
 
 
 <div style="text-align:center; font-size: 18px;">
@@ -181,7 +181,7 @@ If you find our survey is useful in your research or applications, please consid
 @article{generalworldmodelsurvey,
   title={Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond},
   author={Zheng Zhu and Xiaofeng Wang and Wangbo Zhao and Chen Min and Nianchen Deng and Min Dou and Yuqi Wang and Botian Shi and Kai Wang and Chi Zhang and Yang You and Zhaoxiang Zhang and Dawei Zhao and Liang Xiao and Jian Zhao and Jiwen Lu and Guan Huang}, 
-  journal={arXiv preprint arXiv:TODO},
+  journal={arXiv preprint arXiv:2405.03520},
   year={2024}
 }
 ```
