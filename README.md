@@ -82,7 +82,7 @@ In our report, we present a holistic examination of recent advancements in world
 ## Papers and Toolboxes for Video Generation World Models 
 ![VideoGen](./asset/VideoGen.png "video generation world models")
 
-| Methods | Task | Github|
+| Methods | Task | GitHub|
 |:-----:|:-----:|:-----:|
 | [Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan/blob/main/docs/Report-v1.0.0.md)  | T2V Generation | [![Star](https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/Open-Sora-Plan)|
 | [Open-Sora](https://github.com/hpcaitech/Open-Sora/blob/main/docs/zh_CN/README.md)  | T2V Generation | [![Star](https://img.shields.io/github/stars/hpcaitech/Open-Sora.svg?style=social&label=Star)](https://github.com/hpcaitech/Open-Sora)|
@@ -109,7 +109,7 @@ In our report, we present a holistic examination of recent advancements in world
 ## Papers and Toolboxes for Autonomous Driving World Models 
 ![Drive](./asset/Drive.png "autonomous driving world models")
 
-| Methods | Task | Github|
+| Methods | Task | GitHub|
 |:-----:|:-----:|:-----:|
 | [Iso-Dream](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9316769afaaeeaad42a9e3633b14e801-Abstract-Conference.html)  | End-to-end Driving|-|
 | [MILE](https://proceedings.neurips.cc/paper_files/paper/2022/hash/827cb489449ea216e4a257c47e407d18-Abstract-Conference.html)  | End-to-end Driving|[![Star](https://img.shields.io/github/stars/wayveai/mile.svg?style=social&label=Star)](https://github.com/wayveai/mile)|
@@ -140,7 +140,7 @@ In our report, we present a holistic examination of recent advancements in world
 ## Papers and Toolboxes for Autonomous Agents World Models 
 ![Agent](./asset/Agent.png "autonomous agents world models")
 
-| Methods | Task | Github|
+| Methods | Task | GitHub|
 |:-----:|:-----:|:-----:|
 | [PlaNet](https://planetrl.github.io/)  | Robotics | [![Star](https://img.shields.io/github/stars/google-research/planet.svg?style=social&label=Star)](https://github.com/google-research/planet) |
 | [World Models](https://worldmodels.github.io/)  | Game Agent | [![Star](https://img.shields.io/github/stars/hardmaru/WorldModelsExperiments.svg?style=social&label=Star)](https://github.com/hardmaru/WorldModelsExperiments) |
