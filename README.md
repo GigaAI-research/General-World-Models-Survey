@@ -9,7 +9,7 @@
     <a href="https://scholar.google.com.hk/citations?user=5IJ0Yg4AAAAJ&hl=zh-CN">Xiaofeng Wang*</a>,
     <a href="https://scholar.google.co.jp/citations?user=aocj89kAAAAJ&hl=es">Wangbo Zhao*</a>,
     <a href="https://scholar.google.com/citations?user=pE9gTMQAAAAJ&hl=zh-CN">Chen Min*</a>,
-    <a href="">Nianchen Deng*</a>,
+    <a href="https://scholar.google.com/citations?user=AGPz8C4AAAAJ">Nianchen Deng*</a>,
     <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=w9fTWKQAAAAJ">Min Dou*</a>,
     <a href="https://scholar.google.com/citations?user=35UcX9sAAAAJ&hl=en">Yuqi Wang*</a>,
     <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=K0PpvLkAAAAJ">Botian Shi<sup>#</sup></a>,
