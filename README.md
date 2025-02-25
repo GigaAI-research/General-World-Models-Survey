@@ -164,6 +164,8 @@ In our report, we present a holistic examination of recent advancements in world
 | [DayDreamer](https://danijar.com/project/daydreamer/)  | Robotics | [![Star](https://img.shields.io/github/stars/danijar/daydreamer.svg?style=social&label=Star)](https://github.com/danijar/daydreamer) |
 | [TWM](https://github.com/jrobine/twm/)  | Game Agent | [![Star](https://img.shields.io/github/stars/jrobine/twm.svg?style=social&label=Star)](https://github.com/jrobine/twm) |
 | [STORM](https://github.com/weipu-zhang/storm/)  | Game Agent | [![Star](https://img.shields.io/github/stars/weipu-zhang/storm.svg?style=social&label=Star)](https://github.com/weipu-zhang/storm) |
+| [REM](https://arxiv.org/abs/2402.05643)  | Game Agent |  [![Star](https://img.shields.io/github/stars/leor-c/rem.svg?style=social&label=Star)](https://github.com/leor-c/REM) |
+| [M<sup>3</sup>](https://github.com/leor-c/M3)  | Game Agent & Robotics |  [![Star](https://img.shields.io/github/stars/leor-c/m3.svg?style=social&label=Star)](https://github.com/leor-c/M3) |
 | [MC-JEPA](https://arxiv.org/abs/2307.12698/)  | Optics Flow Prediction | - |
 | [A-JEPA](https://arxiv.org/abs/2311.15830/)  | Audio Classification | - |
 | [I_JEPA](https://github.com/facebookresearch/ijepa/)  | Image Semantics | [![Star](https://img.shields.io/github/stars/facebookresearch/ijepa.svg?style=social&label=Star)](https://github.com/facebookresearch/ijepa) |
