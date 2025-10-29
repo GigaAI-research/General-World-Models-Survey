@@ -9,6 +9,7 @@
     <a href="https://scholar.google.com.hk/citations?user=5IJ0Yg4AAAAJ&hl=zh-CN">Xiaofeng Wang*</a>,
     <a href="https://scholar.google.co.jp/citations?user=aocj89kAAAAJ&hl=es">Wangbo Zhao*</a>,
     <a href="https://scholar.google.com/citations?user=pE9gTMQAAAAJ&hl=zh-CN">Chen Min*</a>,
+    <a href="https://scholar.google.com/citations?user=V-YdQiAAAAAJ&hl=zh-CN">Bohan Li*</a>,
     <a href="https://scholar.google.com/citations?user=AGPz8C4AAAAJ">Nianchen Deng*</a>,
     <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=w9fTWKQAAAAJ">Min Dou*</a>,
     <a href="https://scholar.google.com/citations?user=35UcX9sAAAAJ&hl=en">Yuqi Wang*</a>,
@@ -131,6 +132,7 @@ In our report, we present a holistic examination of recent advancements in world
 | [OccWorld](https://arxiv.org/abs/2311.16038)  | Neural Driving Simulator (3D) | [![Star](https://img.shields.io/github/stars/wzzheng/OccWorld.svg?style=social&label=Star)](https://github.com/wzzheng/OccWorld)|
 | [MUVO](https://arxiv.org/abs/2311.11762)  | Neural Driving Simulator (3D) | -|
 | [LidarDM](https://www.zyrianov.org/lidardm/)  | Neural Driving Simulator (3D) | -|
+| [UniScene](https://arxiv.org/abs/2412.05435)  | Neural Driving Simulator (3D)| [![Star](https://img.shields.io/github/stars/Arlo0o/UniScene-Unified-Occupancy-centric-Driving-Scene-Generation.svg?style=social&label=Star)](https://github.com/Arlo0o/UniScene-Unified-Occupancy-centric-Driving-Scene-Generation)|
 | [UniWorld](https://arxiv.org/abs/2308.07234)  | Neural Driving Simulator (3D) & 4D Pre-training| -|
 | [ViDAR](https://arxiv.org/abs/2312.17655)  | Neural Driving Simulator (3D) & 4D Pre-training| [![Star](https://img.shields.io/github/stars/OpenDriveLab/ViDAR.svg?style=social&label=Star)](https://github.com/OpenDriveLab/ViDAR)|
 | [DriveWorld](XXX)  | Neural Driving Simulator (3D) & 4D Pre-training|-|
