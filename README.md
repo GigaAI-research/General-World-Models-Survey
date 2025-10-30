@@ -172,6 +172,7 @@ In our report, we present a holistic examination of recent advancements in world
 | [SafeDreamer](https://sites.google.com/view/safedreamer/)  | Robotics | [![Star](https://img.shields.io/github/stars/PKU-Alignment/SafeDreamer.svg?style=social&label=Star)](https://github.com/PKU-Alignment/SafeDreamer) |
 | [Genie](https://sites.google.com/view/genie-2024/home/)  | Generative Interactive Environment | - |
 | [V-JEPA](https://github.com/facebookresearch/jepa/)  | Video Prediction | [![Star](https://img.shields.io/github/stars/facebookresearch/jepa.svg?style=social&label=Star)](https://github.com/facebookresearch/jepa) |
+| [ORV](https://orangesodahub.github.io/ORV/)  | Robotics | [![Star](https://img.shields.io/github/stars/OrangeSodahub/ORV.svg?style=social&label=Star)](https://github.com/OrangeSodahub/ORV)|
 | [RoboDreamer](https://robovideo.github.io/)  | Robotics | - |
 | [UniSim](https://universal-simulator.github.io/unisim/)  | Generative Interactive Environment | - |
 
