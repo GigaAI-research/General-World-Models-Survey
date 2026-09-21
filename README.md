@@ -136,6 +136,7 @@ In our report, we present a holistic examination of recent advancements in world
 | [UniWorld](https://arxiv.org/abs/2308.07234)  | Neural Driving Simulator (3D) & 4D Pre-training| -|
 | [ViDAR](https://arxiv.org/abs/2312.17655)  | Neural Driving Simulator (3D) & 4D Pre-training| [![Star](https://img.shields.io/github/stars/OpenDriveLab/ViDAR.svg?style=social&label=Star)](https://github.com/OpenDriveLab/ViDAR)|
 | [DriveWorld](XXX)  | Neural Driving Simulator (3D) & 4D Pre-training|-|
+| [DriveVA: Video Action Models are Zero-Shot Drivers](https://link.springer.com/chapter/10.1007/978-3-032-37718-0_19) (ECCV 2026) | Neural Driving Simulator (2D) & End-to-end Driving | [![Star](https://img.shields.io/github/stars/xiaomi-mlab/DriveVA.svg?style=social&label=Star)](https://github.com/xiaomi-mlab/DriveVA) |
 
 
 
