@@ -175,6 +175,7 @@ In our report, we present a holistic examination of recent advancements in world
 | [ORV](https://orangesodahub.github.io/ORV/)  | Robotics | [![Star](https://img.shields.io/github/stars/OrangeSodahub/ORV.svg?style=social&label=Star)](https://github.com/OrangeSodahub/ORV)|
 | [RoboDreamer](https://robovideo.github.io/)  | Robotics | - |
 | [UniSim](https://universal-simulator.github.io/unisim/)  | Generative Interactive Environment | - |
+| [FlockWorld](https://arxiv.org/abs/2610.34564)  | Multi-Agent Video World Model | [![Star](https://img.shields.io/github/stars/wangyz1999/flockworld.svg?style=social&label=Star)](https://github.com/wangyz1999/flockworld) |
 
 
 ## Contact
